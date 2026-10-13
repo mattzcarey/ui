@@ -1,0 +1,29 @@
+.changeset/mcp-sdk-v2.md
+  s_64fb78001b3eb9::t_fc672da51df294 5
+packages/shadcn/src/commands/mcp.ts
+  s_64fb78001b3eb9::t_36516917ab00f4 5,101-103
+packages/tests/package.json
+  s_64fb78001b3eb9::t_afb80325426228 17
+packages/tests/src/tests/mcp.test.ts
+  s_64fb78001b3eb9::t_5f61e65649877a 1-88
+packages/tests/src/utils/helpers.ts
+  s_64fb78001b3eb9::t_3c54bf1d2a7c4c 11-14
+pnpm-lock.yaml
+  s_64fb78001b3eb9::t_3bef78900a7583 737-739,2185-2188,11280-11289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d0ad32ed2e0f32150f55157e7991fd1acea2ea90",
+  "prompts": {},
+  "sessions": {
+    "s_64fb78001b3eb9": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a135fe-8769-75e7-929f-c6b8a28bf86c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Matt Carey <mcarey@cloudflare.com>"
+    }
+  }
+}
